@@ -10,16 +10,16 @@ hero:
   actions:
     - theme: brand
       text: 下载windows
-      link: /guide/introduce/introduce/introduce
-    - theme: brand
-      text: 下载mac
-      link: https://gitee.com/dotnetmoyu/Vitepress-Template
-    - theme: brand
-      text: 下载android
-      link: https://gitee.com/dotnetmoyu/Vitepress-Template
-    - theme: alt
-      text: 下载ios
-      link: https://gitee.com/dotnetmoyu/Vitepress-Template
+      link: https://vuclient.vertexswave.com/VC网络连接器.exe
+#    - theme: brand
+#      text: 下载mac
+#      link: https://gitee.com/dotnetmoyu/Vitepress-Template
+#    - theme: brand
+#      text: 下载android
+#      link: https://gitee.com/dotnetmoyu/Vitepress-Template
+#    - theme: alt
+#      text: 下载ios
+#      link: https://gitee.com/dotnetmoyu/Vitepress-Template
   image:
     src: /home.png
 features:
@@ -39,6 +39,6 @@ features:
     title: 自研传输协议
     details: 完全自研的传输协议，多层加密协议保证数据安全。
   - icon: 🌍
-    title: 多种客户端支持
-    details: 支持linux,window,mac,android,ios多种客户端。
+    title: 多种客户端支持(开发中)
+    details: 其它客户端支持正在火速开发中。
 ---
